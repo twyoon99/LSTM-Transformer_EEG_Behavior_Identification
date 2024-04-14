@@ -5,3 +5,6 @@
 EEG데이터 전처리 방법
 
 Norch Filter + BandPass Filter
+EEG데이터 전처리 방법
+
+Norch Filter + BandPass Filter
