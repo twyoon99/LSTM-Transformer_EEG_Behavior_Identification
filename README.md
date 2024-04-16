@@ -3,5 +3,3 @@
 EEG데이터 전처리 방법
 
 Norch Filter + BandPass Filter
-
-<img src="https://github.com/twyoon99/Capstone_Design/assets/118956433/d7c1df01-1526-4b6b-8326-d8a66c7943d6.png" width="200" height="400"/>
