@@ -7,6 +7,3 @@
 # Transformer Model Structure
 ![Transformer모델 구조](https://github.com/twyoon99/LSTM-Transformer_EEG_Behavior_Identification/assets/118956433/479cad01-5cf5-44d7-969f-3ddb7c7a24c8)
 
-
-# Transformer Model Structure
-![Transformer모델 구조](https://github.com/twyoon99/LSTM-Transformer_EEG_Behavior_Identification/assets/118956433/479cad01-5cf5-44d7-969f-3ddb7c7a24c8)
