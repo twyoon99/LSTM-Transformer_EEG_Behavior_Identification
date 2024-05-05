@@ -1,4 +1,4 @@
-# EEG 행동 식별 LSTM과 Transformer 모델 비교에 관한 연구(KAICTS 2024 춘계학술발표대회 논문 투고)
+# EEG 행동 식별 LSTM과 Transformer 모델 비교에 관한 연구
 
 This project conducted a study on EEG behavior identification LSTM and Transformer model comparison in March 2024.
 The paper was submitted and presented by the first author of the KAICTS 2024 Spring Academic Presentation Conference.
